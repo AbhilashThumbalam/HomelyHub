@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For inquiries or support, contact: [Abhilash Thumbalam](https://github.com/AbhilashThumbalam)
 
 ---
-_This README file was made by [**Nishant Sheoran**](www.github.com/nishant-sheoran)_
+
 
 
 
